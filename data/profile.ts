@@ -48,7 +48,7 @@ export const profile = {
     email: "shadhin.int@gmail.com",
   },
 
-  siteUrl: "https://YOUR_DOMAIN_HERE", // placeholder — set the deployed domain before going live
+  siteUrl: "https://srshadhin.github.io",
 } as const;
 
 export type Profile = typeof profile;
