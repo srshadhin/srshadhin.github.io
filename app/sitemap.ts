@@ -2,6 +2,10 @@ import type { MetadataRoute } from "next";
 import { profile } from "@/data/profile";
 import { caseStudies } from "@/data/projects";
 
+// Required for `output: "export"` (the GitHub Pages build) — otherwise this
+// route handler is treated as dynamic and fails the static export.
+export const dynamic = "force-static";
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const base = profile.siteUrl;
 
