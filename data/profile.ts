@@ -23,7 +23,7 @@ export const profile = {
   },
 
   currentFocus:
-    "Vendor integrations, asynchronous resilience and geospatial location services at TechnoNext Software Ltd.",
+    "Vendor integrations, asynchronous resilience and geospatial location services at Foodi Express Ltd.",
 
   about: {
     lede: "I'm a backend engineer who enjoys understanding how complex systems work beneath the surface.",

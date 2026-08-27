@@ -68,7 +68,7 @@ export const caseStudies: CaseStudy[] = [
     slug: "vendor-integration-resilience",
     index: "02",
     title: "Vendor Integration & Async Resilience",
-    context: "TechnoNext Software Ltd. · Apr 2025 – Present",
+    context: "Foodi Express Ltd. · Apr 2025 – Present",
     summary:
       "Fault-tolerant third-party vendor integrations with a centralized retry mechanism, plus Redis-optimized geospatial queries for location-based services.",
     flow: [

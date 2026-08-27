@@ -12,8 +12,7 @@ export type TimelineEntry = {
 // Career progression — kept concise and factual. Edit freely as roles change.
 export const timeline: TimelineEntry[] = [
   {
-    company: "TechnoNext Software Ltd.",
-    companyNote: "A concern of US-Bangla Group",
+    company: "Foodi Express Ltd.",
     role: "Senior Software Engineer",
     period: "Apr 2025 — Present",
     location: "Dhaka, Bangladesh",
